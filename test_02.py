@@ -21,7 +21,6 @@ def calculate_subset(l, result_list, subset, index):
 
 
 def find_subsets(l: list[int]):
-
     subset: list[int] = []
     result_list: list[list[int]] = []
     index = 0
